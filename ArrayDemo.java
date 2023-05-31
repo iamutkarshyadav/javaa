@@ -1,3 +1,4 @@
+//question 12 
 public class ArrayDemo {
     public static void arrayFunc(int[] arr, int target) {
         System.out.println("Pairs of the element whose sum is " + target + "are :");
@@ -39,3 +40,9 @@ public class ArrayDemo {
     }
 
 }
+
+// Pairs of
+// elements whose
+// sum is 10 are:4+6=10 5+5=10-10+20=10
+// Sorted Arrays:A:[1,2,4,5,6,7]B:[8,9,10
+// ]
