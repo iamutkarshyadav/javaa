@@ -38,21 +38,3 @@ public class BankDeposit {
         }
     }
 }
-/*
- * Output 1:
- * Press 1 for Term Deposit
- * Press 2 for Recurring Deposit
- * Enter your choice: 1
- * Enter principal: 10000
- * Enter rate of interest: 6.1
- * Enter period in years: 3
- * Maturity Amount is 11943.899809999999
- * Output 2:
- * Press 1 for Term Deposit
- * Press 2 for Recurring Deposit
- * Enter your choice: 2
- * Enter monthly installment: 10000
- * Enter rate of interest: 6.1
- * Enter period in months: 3
- * Maturity Amount is 30305.0
- */
